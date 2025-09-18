@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4.98 23.72 0.48 0.25" width="0.48px" height="0.25px"><defs><style>
+      .cls-1 {
+        fill: #f2f2f2;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e5e5e5;
+      }
+    </style></defs><path class="cls-2" d="m4.98,23.97l.48-.25-.48.25Z" style="fill: rgb(62, 144, 250);" id="object-0" transform="matrix(1, 0, 0, 1, -8.881784197001252e-16, 0)"/></svg>
